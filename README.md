@@ -8,7 +8,8 @@ A modern, interactive **3-pane Windows Event Log Dashboard** built with PowerShe
 
 ## 📸 Screenshot
 
-![Core365 Event Dashboard](screenshot.png)
+<img width="1909" height="953" alt="image" src="https://github.com/user-attachments/assets/53529791-8be4-48c2-8466-f359e3847b1f" />
+
 
 ---
 
